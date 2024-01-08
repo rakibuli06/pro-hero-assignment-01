@@ -126,3 +126,35 @@
     margin: 0 auto;
     margin-top: 120px;
 }
+
+.hotel-address {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding-top: 100px;
+}
+
+span {
+    color: red;
+}
+
+.btn-join2 {
+    background-color: #F00;
+    color: rgb(255, 255, 255);
+    display: inline-flex;
+    padding: 16px 32px;
+    margin-left: 570px;
+    margin-top: 48px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    cursor: pointer;
+}
