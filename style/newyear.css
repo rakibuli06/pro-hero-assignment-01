@@ -1,0 +1,128 @@
+.hero {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
+    background-position: center;
+    margin: 0 auto;
+    width: 1320px;
+    height: 600px;
+}
+
+.hero-h4 {
+    font-size: 32px;
+    font-family: Merriweather;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+    margin-bottom: 0px;
+}
+
+.hero-h3 {
+    font-size: 72px;
+    text-align: center;
+    color: white;
+    margin-top: 16px;
+}
+
+/* main section */
+
+.main-off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.main-p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+    margin-bottom: 0px;
+
+}
+
+.main-h2 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+.main-section {
+    padding: 0px;
+    align-items: center;
+}
+
+.happy-img {
+    display: block;
+    margin: auto;
+}
+
+/* welcome party section */
+.party-section {
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.welcome {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    padding-top: 126px;
+    padding-left: 126px;
+    margin-bottom: 0px;
+}
+
+.welcome-p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    width: 697px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 126px;
+    padding-top: 12px;
+}
+
+.btn-join {
+    color: #ff5e00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 126px;
+    margin-top: 48px;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.year-2024 {
+    display: block;
+    margin: auto;
+    padding: 6px 138px 6px 868px;
+    margin-top: -400px;
+}
+
+/* address section */
+.address-section {
+    width: 1320px;
+    height: 482px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin: 0 auto;
+    margin-top: 120px;
+}
