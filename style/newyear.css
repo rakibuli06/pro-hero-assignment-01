@@ -260,3 +260,25 @@ span {
     margin: auto;
     padding-top: 28px;
 }
+
+.banner{
+    display: flex;
+    width: 1320px;
+    margin: auto;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding-top: 40px;
+}
+
+.banner .banner-img1{
+    margin-top: 200px;
+    position: absolute;
+}
+
+.banner .banner-img3{
+    margin-left: 890px;
+    padding-bottom: 0%;
+    align-items: flex-start;
+    position: absolute;
+
+}
