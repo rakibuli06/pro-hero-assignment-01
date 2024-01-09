@@ -336,6 +336,7 @@ span {
     margin-top: 120px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    margin-bottom: 120px;
 }
 
 .h3-subs {
@@ -398,3 +399,42 @@ span {
     font-weight: 600;
     color: #FFF;
 }
+
+/* footer section */
+
+.footer-2 {
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer h3 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 120px;
+    padding-left: 140px;
+}
+
+.footer .footer-right {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 500;
+    text-align: end;
+    padding-top: 120px;
+    padding-right: 140px;
+}
+.vertical-line{
+    width: 1px;
+    height: 500px;
+    color: #FFF;
+}
+
+
