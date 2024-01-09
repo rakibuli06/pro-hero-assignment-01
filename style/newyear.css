@@ -222,3 +222,41 @@ span {
     line-height: 32px;
     margin-left: 118px;
 }
+
+/* sale section */
+
+.sale-section {
+    width: 1320px;
+    margin: auto;
+}
+
+.what {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.holiday {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: -40px;
+    margin-bottom: 0px;
+}
+
+.sale-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    width: 1068px;
+    align-items: center;
+    margin: auto;
+    padding-top: 28px;
+}
